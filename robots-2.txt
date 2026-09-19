@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://psanhuezacortes-blip.github.io/guia-5-errores-divorcio/sitemap.xml
